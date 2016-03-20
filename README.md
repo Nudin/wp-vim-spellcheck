@@ -26,12 +26,12 @@ like:
 
     :set spelllang=en,enwp
 
-**Tipp:** if you are writing texts with mixed languages or switch the
+**Tip:** if you are writing texts with mixed languages or switch the
 language often you can specify even more spell files:
 
     :set spelllang=en,de,enwp,dewp
 
 **Note:** This is in early development. I sort out a lot of words that
 could cause problems but probably won't. And  I have no idea if it works for
-languages with alphabets not based on the latin alphabet!
+languages with alphabets not based on the Latin alphabet!
 
